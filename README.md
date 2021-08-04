@@ -1,2 +1,2 @@
-# comp20003-sidak
+## Index
 Resources for COMP20003 - Algorithms and Data Structures

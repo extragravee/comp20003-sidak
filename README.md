@@ -1,2 +1,2 @@
-## Index
-Resources for COMP20003 - Algorithms and Data Structures
+## Resources for COMP20003 - Algorithms and Data Structures
+# Index

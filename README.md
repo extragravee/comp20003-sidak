@@ -6,5 +6,5 @@ Please practise upto chapter 9 asap!
 ## Demos and code summaries (documented)
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/1.demo.c"> 1. Basic demo of memory addresses and variables </a> \
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/1.pointers.c"> 2. Demo of pointers with notes </a> \
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/2.pointer_types_and_arrays.c"> 3. Arrays and link to pointers </a>\ 
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/2.pointer_types_and_arrays.c"> 3. Arrays and link to pointers </a>
   

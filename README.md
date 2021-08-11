@@ -6,5 +6,13 @@ Please practise upto chapter 9 asap!
 ## Demos and code summaries (documented)
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/1.demo.c"> 1. Basic demo of memory addresses and variables </a> \
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/1.pointers.c"> 2. Demo of pointers with notes </a> \
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/2.pointer_types_and_arrays.c"> 3. Arrays and link to pointers </a>
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/2.pointer_types_and_arrays.c"> 3. Arrays and link to pointers </a> \
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/3.%20fib-recursive.c"> 4.1 Fibonacci recursive </a> \
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/4.%20fib-efficient.c"> 4.2 Fibonacci iterative </a> \
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/5.%20fib-best.c"> 4.3 Fibonacci best </a> \
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/4.0.structs.c"> 5.0 Structs </a> \
+
+
+
+
   

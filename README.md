@@ -14,14 +14,14 @@ Please practise upto chapter 9 asap!
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/5.%20fib-best.c"> 4.3 Fibonacci best </a> \
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/4.0.structs.c"> 5.1 Structs </a> \
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/5.dynamic_arrays.c"> 5.2 Dynamic Arrays </a> \
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/5.dynamic_arrays.c"> 5.2 Dynamic Arrays </a>
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/6.stacks_queues.c"> 6. Stacks and Queues </a>
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.0.binary_trees.c"> 7.0 Binary Trees</a>
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.1.avl_trees.png"> 7.1 AVL Trees</a>
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.2.avl.png"> 7.2 AVL Trees</a>
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.3.avl.png"> 7.3 AVL Trees</a>
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.4.avl.png"> 7.4 AVL Trees</a>
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.5.avl.gif"> 7.5 AVL Trees</a>
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/5.dynamic_arrays.c"> 5.2 Dynamic Arrays </a> \
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/6.stacks_queues.c"> 6. Stacks and Queues </a>\
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.0.binary_trees.c"> 7.0 Binary Trees</a>\
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.1.avl_trees.png"> 7.1 AVL Trees</a>\
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.2.avl.png"> 7.2 AVL Trees</a>\
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.3.avl.png"> 7.3 AVL Trees</a>\
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.4.avl.png"> 7.4 AVL Trees</a>\
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.5.avl.gif"> 7.5 AVL Trees</a>\
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/8.revisionDSbasics.c"> 8. Data structures complexities revision</a>
 
 

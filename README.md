@@ -22,8 +22,8 @@ Please practise upto chapter 9 asap!
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.3.avl.png"> 7.3 AVL Trees</a>\
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.4.avl.png"> 7.4 AVL Trees</a>\
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/7.5.avl.gif"> 7.5 AVL Trees</a>\
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/8.revisionDSbasics.c"> 8. Data structures complexities revision</a>
-
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/8.revisionDSbasics.c"> 8. Data structures complexities revision</a>\
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/w6.pdf"> Week 6 workshop slides - Distribution Counting, Hashing</a>
 
 
 

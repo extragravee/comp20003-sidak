@@ -23,9 +23,9 @@ Please practise upto chapter 9 asap!
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/resources/7.4.avl.png"> 7.4 AVL Trees</a>\
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/resources/7.5.avl.gif"> 7.5 AVL Trees</a>\
 <a href="https://github.com/extragravee/comp20003-sidak/blob/main/resources/8.revisionDSbasics.c"> 8. Data structures complexities revision</a>\
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/resources/w6.pdf"> Week 6 workshop slides - Distribution Counting, Hashing</a>
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/resources/2.0.priorityQ.c"> Priority Queue and heaps</a>
-<a href="https://github.com/extragravee/comp20003-sidak/blob/main/resources/2.1.PQ-29-46.pdf"> Heapsort pdf</a>
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/resources/w6.pdf"> Week 6 workshop slides - Distribution Counting, Hashing</a>\
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/resources/2.0.priorityQ.c">9.0 Priority Queue and heaps</a>\
+<a href="https://github.com/extragravee/comp20003-sidak/blob/main/resources/2.1.PQ-29-46.pdf">9.1 Heapsort pdf</a>
 
 
 
